@@ -1,0 +1,17 @@
+Photo credits — Batter Together website
+All photos are CC0 (public domain) from rawpixel.com, found via Openverse.
+They are stand-ins until real photos of her own bakes are added.
+
+hero-cookies.jpg      "Homemade chocolate chip cookies"
+fav-cake.jpg          "Birthday cake" (Jakub K.)
+fav-cookies.jpg       "Homemade chocolate chip cookies"
+fav-cupcakes.jpg      "Homemade vanilla frosting cupcakes"
+fav-pie.jpg           "Apple Pie"
+story-gifts.jpg       "Free chocolate chip cookies image"
+hero-dough.jpg        "Free person kneading dough photo"
+about-placeholder.jpg "Free kneading dough image" (swap for a photo of the baker)
+occ-birthday.jpg      "Birthday cake candles that spell happy birthday"
+occ-wedding.jpg       "Free beautiful wedding cake image"
+occ-holiday.jpg       "Christmas cookies" platter
+
+Icons and the cookie logo mark are drawn in code for this site.
